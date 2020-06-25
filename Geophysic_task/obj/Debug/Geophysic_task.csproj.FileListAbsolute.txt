@@ -1,0 +1,30 @@
+C:\Documents and Settings\msu\Local Settings\Application Data\Temporary Projects\Geophysic_task\bin\Debug\Geophysic_task.exe
+C:\Documents and Settings\msu\Local Settings\Application Data\Temporary Projects\Geophysic_task\bin\Debug\Geophysic_task.pdb
+C:\Documents and Settings\msu\Local Settings\Application Data\Temporary Projects\Geophysic_task\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\msu\Local Settings\Application Data\Temporary Projects\Geophysic_task\obj\Debug\Geophysic_task.Properties.Resources.resources
+C:\Documents and Settings\msu\Local Settings\Application Data\Temporary Projects\Geophysic_task\obj\Debug\Geophysic_task.csproj.GenerateResource.Cache
+C:\Documents and Settings\msu\Local Settings\Application Data\Temporary Projects\Geophysic_task\obj\Debug\Geophysic_task.exe
+C:\Documents and Settings\msu\Local Settings\Application Data\Temporary Projects\Geophysic_task\obj\Debug\Geophysic_task.pdb
+E:\users\210\Sharifullin_Alexander_vremenno\Geophysic_task\Geophysic_task\obj\Debug\Geophysic_task.exe
+E:\users\210\Sharifullin_Alexander_vremenno\Geophysic_task\Geophysic_task\obj\Debug\Geophysic_task.pdb
+E:\users\210\Sharifullin_Alexander_vremenno\Geophysic_task\Geophysic_task\bin\Debug\Geophysic_task.exe
+E:\users\210\Sharifullin_Alexander_vremenno\Geophysic_task\Geophysic_task\bin\Debug\Geophysic_task.pdb
+E:\users\210\Sharifullin_Alexander_vremenno\Geophysic_task\Geophysic_task\obj\Debug\ResolveAssemblyReference.cache
+E:\users\210\Sharifullin_Alexander_vremenno\Geophysic_task\Geophysic_task\obj\Debug\Geophysic_task.Form1.resources
+E:\users\210\Sharifullin_Alexander_vremenno\Geophysic_task\Geophysic_task\obj\Debug\Geophysic_task.Properties.Resources.resources
+E:\users\210\Sharifullin_Alexander_vremenno\Geophysic_task\Geophysic_task\obj\Debug\Geophysic_task.csproj.GenerateResource.Cache
+E:\users\210\Sharifullin_Alexander_vremenno\Geophysic_task\Geophysic_task\bin\Debug\ZedGraph.dll
+E:\users\210\Sharifullin_Alexander_vremenno\Geophysic_task\Geophysic_task\bin\Debug\ZedGraph.xml
+E:\users\210\Sharifullin_Alexander_vremenno\Geophysic_task\Geophysic_task\bin\Debug\de\ZedGraph.resources.dll
+E:\users\210\Sharifullin_Alexander_vremenno\Geophysic_task\Geophysic_task\bin\Debug\es\ZedGraph.resources.dll
+E:\users\210\Sharifullin_Alexander_vremenno\Geophysic_task\Geophysic_task\bin\Debug\fr\ZedGraph.resources.dll
+E:\users\210\Sharifullin_Alexander_vremenno\Geophysic_task\Geophysic_task\bin\Debug\hu\ZedGraph.resources.dll
+E:\users\210\Sharifullin_Alexander_vremenno\Geophysic_task\Geophysic_task\bin\Debug\it\ZedGraph.resources.dll
+E:\users\210\Sharifullin_Alexander_vremenno\Geophysic_task\Geophysic_task\bin\Debug\ja\ZedGraph.resources.dll
+E:\users\210\Sharifullin_Alexander_vremenno\Geophysic_task\Geophysic_task\bin\Debug\pt\ZedGraph.resources.dll
+E:\users\210\Sharifullin_Alexander_vremenno\Geophysic_task\Geophysic_task\bin\Debug\ru\ZedGraph.resources.dll
+E:\users\210\Sharifullin_Alexander_vremenno\Geophysic_task\Geophysic_task\bin\Debug\sk\ZedGraph.resources.dll
+E:\users\210\Sharifullin_Alexander_vremenno\Geophysic_task\Geophysic_task\bin\Debug\sv\ZedGraph.resources.dll
+E:\users\210\Sharifullin_Alexander_vremenno\Geophysic_task\Geophysic_task\bin\Debug\tr\ZedGraph.resources.dll
+E:\users\210\Sharifullin_Alexander_vremenno\Geophysic_task\Geophysic_task\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\users\210\Sharifullin_Alexander_vremenno\Geophysic_task\Geophysic_task\bin\Debug\zh-tw\ZedGraph.resources.dll
